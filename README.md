@@ -1,8 +1,8 @@
 # 이타인클럽
 - 이타인이 문제 해결을 도와 드립니다.
+- 당신이 가진 재능을 남을 위해 쓰고 싶은 분은 연락주세요.
 
 # 이타인클럽 위키
-- 이타인클럽의 공개 도움을 요청하는 곳입니다.
 - [Issue 게시판](https://github.com/EtainClub/etainclub/issues)에 도움을 요청하세요.
 - 이타인클럽 공개자료는 [위키](https://github.com/EtainClub/etainclub/wiki)를 참고 하세요.
 
